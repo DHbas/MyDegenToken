@@ -18,12 +18,14 @@ It's essential to connect the metamask wallet with Avalanche Fuji C-Chain Testne
 
 ## Getting Started
 ## Executing Program
-Open Remix IDE and create the Smart Contract named " DegenToken.sol " and paste the smart contract code to it.
-Connect Metamask to the Remix IDE with the testnet account having AVAX token for the gas fee.
-Deploy the contract using " Avalanche Fuji C-Chain " account.
-Copy the Deployed contract address and go to https://testnet.snowtrace.io
-Search the coppied address in the search box it will show all the transaction blocks of that smart contract.
-Check All the functionality of my smart contract. 
+1. Launch the Remix IDE and create a Smart Contract named "DegenToken.sol".
+2. Paste the smart contract code into the IDE to define the contract's functionalities.
+3. Connect your Metamask wallet to the Remix IDE using a testnet account containing AVAX tokens to cover gas fees.
+4. Deploy the contract using the `Avalanche Fuji C-Chain` account.
+5. Copy the deployed contract address for future reference.
+6. Navigate to https://testnet.snowtrace.io and input the copied contract address into the search box.
+7. Explore and examine all transaction blocks associated with the smart contract to ensure its functionalities and integrity.
+
 
 ## Author
 David John Bas

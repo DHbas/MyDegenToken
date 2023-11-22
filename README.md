@@ -8,11 +8,11 @@ An Ethereum-based ERC20 token smart contract developed using Solidity. This cont
 ## Challenge
 To create a ERC20 token and deploy it on the Avalanche network for Degen Gaming. The smart contract should have the following functionality:
 
-Mint Tokens: Generate new tokens and assign them to specified addresses.
-Check Balances: View token balances of any address in the system.
-Transfer Tokens: Facilitate token transfers between addresses.
-Burn Tokens: Allow users to permanently destroy (burn) their tokens.
-Redeem Tokens: Enable users to redeem specific amounts of tokens based on their choice, with distinct redemption options available.
+1. Mint Tokens: Generate new tokens and assign them to specified addresses.
+2. Check Balances: View token balances of any address in the system.
+3. Transfer Tokens: Facilitate token transfers between addresses.
+4. Burn Tokens: Allow users to permanently destroy (burn) their tokens.
+5. Redeem Tokens: Enable users to redeem specific amounts of tokens based on their choice, with distinct redemption options available.
 
 It's essential to connect the metamask wallet with Avalanche Fuji C-Chain Testnet and to add view transaction to: https://testnet.snowtrace.io to check the transaction on the block viewer of Avalance Platform.
 

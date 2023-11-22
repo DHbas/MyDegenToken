@@ -1,6 +1,6 @@
  # My Degen Token
 
-This repository is for the project assessment of the project of the 4th module of : solidity-avax-intermediate course of Metacrafters academy . The purpose of creating this to prove my learning and to showcase my skill as a solidity developer to the people.
+This repository has been created for the project assessment within the 4th module of the Solidity-AVAX Intermediate course offered by Metacrafters Academy. Its primary aim is to demonstrate my learning progress and show my proficiency as a Solidity developer to others.
 
 ## Description
 An Ethereum-based ERC20 token smart contract developed using Solidity. This contract inherits functionalities from various OpenZeppelin contracts such as ERC20, Ownable, and ERC20Burnable.
